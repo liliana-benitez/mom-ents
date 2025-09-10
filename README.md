@@ -30,3 +30,6 @@ A puzzle featuring our favorite selfies from our girl's trip across Europe. 🥰
    ```bash
    yarn dev
    ```
+
+## ✨ Credits
+Mom 💖

@@ -18,7 +18,7 @@ A puzzle featuring our favorite selfies from our girl's trip across Europe. 🥰
 ## 💻 Installation (if you want to run it locally)
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/liliana-benitez/mom-ents
+   git clone https://github.com/liliana-benitez/mom-ents.git
    ```
 
 2. Install dependencies:
